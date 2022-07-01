@@ -10,3 +10,10 @@ Fork this repository to your own github account, and create two new branches, a 
 ## Edit this file
 
 Editied file
+
+## Links
+
+*[Windows](https://github.com/JustaGlitch/git-exercise/tree/windows)
+*[Unix](https://github.com/JustaGlitch/git-exercise/tree/windowsunix)
+
+
